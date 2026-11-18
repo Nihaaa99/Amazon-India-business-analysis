@@ -1,0 +1,19 @@
+Test ID,Test scenario,Test steps,Expected result,Actual result,Status,Evidence / comments
+TC-01,Browse product categories,Open homepage and select a category,Relevant products should be displayed,,,Not Executed,
+TC-02,View homepage recommendations,Explore personalised product sections,Available recommendations should be displayed,,,Not Executed,
+TC-03,Search for a product,Enter a product name in the search bar,Relevant search results should appear,,,Not Executed,
+TC-04,Apply product filters,Select available price rating or feature filters,Results should reflect selected filters,,,Not Executed,
+TC-05,View product information,Open a product details page,Product name images and specifications should be displayed,,,Not Executed,
+TC-06,View pricing and offers,Check product price and available offers,Price and applicable offers should be visible,,,Not Executed,
+TC-07,Review customer feedback,Open ratings and reviews section,Ratings written reviews and available images should be accessible,,,Not Executed,
+TC-08,Add product to cart,Select Add to Cart,Selected product should appear in the cart,,,Not Executed,
+TC-09,Update cart quantity,Increase or decrease product quantity,Cart quantity and subtotal should update,,,Not Executed,
+TC-10,Select delivery address,Open checkout and select a saved address,Selected address should be reflected in delivery details,,,Not Executed,
+TC-11,Review delivery options,Check available delivery options,Estimated dates and applicable charges should be displayed,,,Not Executed,
+TC-12,Review order summary,Open the order summary,Product price savings charges and payable amount should be visible,,,Not Executed,
+TC-13,View payment options,Continue to payment selection without submitting payment,Available payment options should be displayed,,,Not Executed,Safe observation only; do not submit payment.
+TC-14,View order confirmation,Open an existing order confirmation,Order summary and confirmation details should be accessible,,,Not Executed,Use an existing order; hide personal details.
+TC-15,Track an order,Open an existing order tracking page,Available shipment stages and estimated delivery should be displayed,,,Not Executed,Use an existing order; hide personal details.
+TC-16,Check return eligibility,Open return options for an eligible existing order,Applicable return eligibility and conditions should be displayed,,,Not Executed,Do not submit a return request.
+TC-17,Review replacement and refund options,Explore options for an eligible order,Applicable replacement and refund information should be displayed,,,Not Executed,Do not submit a replacement request.
+TC-18,Access customer support,Open customer service for an order,Relevant support options should be accessible,,,Not Executed,Do not submit a complaint unless intended.
