@@ -1,0 +1,14 @@
+Business Requirement,Functional Requirements,User Story,Planned Test Cases
+BR-01: Browse products,FR-01 to FR-04,US-01,"TC-01; TC-02"
+BR-02: Search and filter,FR-05 to FR-09,US-02,"TC-03; TC-04"
+BR-03: View product information,FR-10 to FR-12; FR-16,US-03,"TC-05; TC-06"
+BR-03: View customer feedback,FR-13 to FR-15,US-04,TC-07
+BR-04: Manage shopping cart,FR-19 to FR-24,US-05,"TC-08; TC-09"
+BR-05: Manage delivery address,FR-25; FR-26,US-06,TC-10
+BR-06: View delivery options,FR-27; FR-28,US-07,TC-11
+BR-07: Review order amount,FR-29; FR-30,US-08,TC-12
+BR-08: Select payment method,FR-31 to FR-33,US-09,TC-13
+BR-09: Receive confirmation,FR-34,US-10,TC-14
+BR-10: Track orders,FR-35 to FR-38,US-11,TC-15
+BR-11: Request returns/replacements,FR-39 to FR-43,US-12,"TC-16; TC-17"
+BR-12: Contact customer support,FR-44; FR-45,US-13,TC-18
