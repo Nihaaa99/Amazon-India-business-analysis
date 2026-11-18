@@ -28,8 +28,8 @@ Understand the customer journey from product discovery through checkout, order t
 - research_notes.md — summary of original observations
 - evidence_and_limitations.md — evidence classification and limitations
 
-## Testing status
-Test cases are designed but have not been executed as a formal test cycle. Do not mark a test Pass without actual execution and evidence. No internal Amazon data, stakeholder interviews, customer analytics or system architecture were accessed.
+## About this project
+I explored Amazon India's website myself and used those observations to map the shopping journey, write requirements and suggest possible improvements. The test cases are my proposed checks; I haven't run them against the live website.
 
 ## Methods
 Manual website exploration, process mapping, requirements documentation, user stories, traceability and manual test design.
